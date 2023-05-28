@@ -8,13 +8,10 @@ npm install
 ### Run
 ```
 npm start
-
 ```
 
 ### Development
-
 ```
-
 npm run dev
 ```
 
