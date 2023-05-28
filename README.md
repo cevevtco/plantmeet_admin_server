@@ -7,8 +7,15 @@ npm install
 
 ### Run
 ```
-node index.js
-nodemon index.js
+npm start
+
+```
+
+### Development
+
+```
+
+npm run dev
 ```
 
 ## Description:
@@ -35,7 +42,7 @@ The front-end repository is: https://github.com/cevevtco/plantmeet_admin
 
 ### Back End
 
-This repository if for the back-end.
+This repository is for the back-end.
 
 
 
