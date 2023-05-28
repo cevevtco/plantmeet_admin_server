@@ -7,7 +7,8 @@ npm install
 
 ### Run
 ```
-npm start
+node index.js
+nodemon index.js
 ```
 
 ## Description:
