@@ -48,7 +48,7 @@ This repository is for the back-end.
 
 
 ### Server-Side:
-Rest API: 
+RESTful API: 
 - Express server with 5 routes:
   - Product
   - Order
